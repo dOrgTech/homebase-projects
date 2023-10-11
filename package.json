@@ -1,0 +1,27 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "dry 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EightRice/projects.git"
+  },
+  "keywords": [
+    "trustless",
+    "business",
+    "ecosystem"
+  ],
+  "author": "Eight Rice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EightRice/projects/issues"
+  },
+  "homepage": "https://github.com/EightRice/projects#readme",
+  "devDependencies": {
+    "hardhat": "^2.18.0"
+  }
+}
